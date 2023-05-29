@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ASUS
+Build-Jdk: 13.0.1
+Class-Path: dependency-jars/httpclient-4.3.jar dependency-jars/httpcore-
+ 4.3.jar dependency-jars/commons-logging-1.1.3.jar dependency-jars/commo
+ ns-codec-1.6.jar dependency-jars/json-simple-1.1.jar
+Main-Class: JavaApiStreaming
+Created-By: Maven Integration for Eclipse
+
